@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/arrow-down-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"m56 144 72 72 72-72z\"opacity=.2></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"m56 144 72 72 72-72zM128 40v104\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

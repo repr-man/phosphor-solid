@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/dev-to-logo-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><rect width=224 height=128 x=16 y=64 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 rx=8></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M144 96h-24v64h24M136 128h-16M172 96l18 64 18-64M56 96h8a24 24 0 0 1 24 24v16a24 24 0 0 1-24 24h-8 0z\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/light/bell-simple-light.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M96 224h64M56 104a72 72 0 0 1 144 0c0 35.82 8.3 64.6 14.9 76a8 8 0 0 1-6.9 12H48a8 8 0 0 1-6.88-12C47.71 168.6 56 139.81 56 104\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

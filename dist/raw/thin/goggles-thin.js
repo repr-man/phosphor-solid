@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/goggles-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M104 152h48M232 152c0 17.67-30.33 32-48 32a32 32 0 0 1 0-64c17.67 0 48 14.33 48 32M104 152a32 32 0 0 1-32 32c-17.67 0-48-14.33-48-32s30.33-32 48-32a32 32 0 0 1 32 32M165.73 125.73l48.9 48.9M46.59 126.59l48.04 48.04\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M232 152a16 16 0 0 0 16-16h0a64 64 0 0 0-64-64H72a64 64 0 0 0-64 64h0a16 16 0 0 0 16 16h0\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

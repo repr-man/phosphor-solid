@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/faders-horizontal-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M188 80h28M40 80h108M124 176h92M40 176h44M148 56v48M84 152v48\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

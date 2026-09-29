@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/scroll-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M200 176V64a24 24 0 0 0-24-24H40M104 104h64M104 136h64\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M24 80s-8-6-8-16a24 24 0 0 1 48 0v128a24 24 0 0 0 48 0c0-10-8-16-8-16h112s8 6 8 16a24 24 0 0 1-24 24H88\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/checkerboard-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"M40 128h88v88H48a8 8 0 0 1-8-8zM128 40h80a8 8 0 0 1 8 8v80h-88z\"opacity=.2></path><rect width=176 height=176 x=40 y=40 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 rx=8></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M128 40v176M216 128H40\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

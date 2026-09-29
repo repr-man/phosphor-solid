@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/bus-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M48 100h160M208 180H48V64a24 24 0 0 1 24-24h112a24 24 0 0 1 24 24ZM208 180v28a8 8 0 0 1-8 8h-28a8 8 0 0 1-8-8v-28M92 180v28a8 8 0 0 1-8 8H56a8 8 0 0 1-8-8v-28\"></path><circle cx=92 cy=140 r=16></circle><circle cx=164 cy=140 r=16></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M244 80v24M12 80v24\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

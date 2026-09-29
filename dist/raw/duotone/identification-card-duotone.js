@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/identification-card-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"M216 48H40a8 8 0 0 0-8 8v144a8 8 0 0 0 8 8h176a8 8 0 0 0 8-8V56a8 8 0 0 0-8-8M96 144a24 24 0 1 1 24-24 24 24 0 0 1-24 24\"opacity=.2></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M152 112h40M152 144h40\"></path><rect width=192 height=160 x=32 y=48 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 rx=8></rect><circle cx=96 cy=120 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M64 168c3.55-13.8 17.09-24 32-24s28.46 10.19 32 24\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

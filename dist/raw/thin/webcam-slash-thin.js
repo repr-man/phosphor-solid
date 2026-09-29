@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/webcam-slash-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M128 176v32M48 40l160 176M163.26 166.79A72 72 0 0 1 68.85 62.94M92.48 41.36a72 72 0 0 1 94.5 104\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M121 72.76a32 32 0 0 1 37.41 41.15M32 208h168.73M134.64 135.31a32 32 0 0 1-37.18-40.9\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

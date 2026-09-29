@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/android-logo-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><circle cx=164 cy=148 r=16></circle><circle cx=92 cy=148 r=16></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M24 184v-22.87C24 103.65 70.15 56.2 127.63 56A104 104 0 0 1 232 160v24a8 8 0 0 1-8 8H32a8 8 0 0 1-8-8M32 48l31.07 31.07M224 48l-30.9 30.9\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

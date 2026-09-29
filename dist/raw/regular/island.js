@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/island.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M24 224s40-32 104-32 104 32 104 32M176 72c-80 40-48 120-48 120M176 72s-17.2-8.58-36-8c-17.46.57-36.3 9.19-44 40\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M176 72s-16-62.5-72-31.25M232 136c0-64-56-64-56-64M176 72s16-52.9 56-22.67\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M184 136s22.61-32-7.95-64\"></path><circle cx=52 cy=140 r=20 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16>"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/light/speedometer-light.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"m120 160 96-96M56.44 160a73 73 0 0 1-.44-8 72.06 72.06 0 0 1 95-68.25\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M220.62 104.64a104.38 104.38 0 0 1 5.48 82 8 8 0 0 1-7.57 5.37H37.46a8.05 8.05 0 0 1-7.57-5.41A104 104 0 0 1 24 151.19C24.44 94 71.73 47.49 129 48a103.7 103.7 0 0 1 46.4 11.38\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

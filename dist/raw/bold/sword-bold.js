@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/sword-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><rect width=39.62 height=122.49 x=70.19 y=104.75 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 rx=8.01 transform=\"rotate(-45 90 166)\"></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"m160 96-56 56M80.44 128.43 152 40h64v64l-88.43 71.56M62 166l-29.66 29.65a8 8 0 0 0 0 11.32L49 223.66a8 8 0 0 0 11.32 0L90 194\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

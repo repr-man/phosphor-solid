@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/linux-logo.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M32 208s32-40 32-120a64 64 0 0 1 128 0c0 80 32 120 32 120\"></path><circle cx=100 cy=100 r=12></circle><circle cx=156 cy=100 r=12></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"m160 136-32 16-32-16M88 208c8-14.35 22.91-24 40-24s32 9.65 40 24\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

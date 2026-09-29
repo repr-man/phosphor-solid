@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/user-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><circle cx=128 cy=96 r=64 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M32 216c19.37-33.47 54.55-56 96-56s76.63 22.53 96 56\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

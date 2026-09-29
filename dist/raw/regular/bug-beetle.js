@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/bug-beetle.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><rect width=144 height=192 x=56 y=40 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 rx=72></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M200 144h24M32 144h24M32 176h25.78M32 112h192M128 144v88M198.22 176H224M200 32l-25.25 25.25M56 32l25.25 25.25\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

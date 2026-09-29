@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/hand-fist.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M128 104a24 24 0 0 1-48 0V64a24 24 0 0 1 48 0ZM128 64a24 24 0 0 1 48 0v24\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M128 176a40 40 0 0 1 40-40h-16a24 24 0 0 1-24-24V96a8 8 0 0 1 8-8h64a24 24 0 0 1 24 24v16a96 96 0 0 1-192 0V88a24 24 0 0 1 48 0v16a24 24 0 0 1-48 0\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

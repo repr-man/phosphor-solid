@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/light/subtract-light.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><circle cx=96 cy=96 r=72 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M167.6 88.4a72 72 0 1 1-79.2 79.2M164.91 116.91l64 64M146.91 146.91l64 64M116.91 164.91l64 64\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

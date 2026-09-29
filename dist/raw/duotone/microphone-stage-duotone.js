@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/microphone-stage-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"M105.05 99.52 33.55 197a8 8 0 0 0 .79 10.38l14.3 14.3a8 8 0 0 0 10.38.79L156.5 151a64 64 0 0 1-51.45-51.48\"opacity=.2></path><circle cx=168 cy=88 r=64 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"m213.25 133.25-90.5-90.5M96 160l8-8M105 99.5 33.55 197a8 8 0 0 0 .79 10.38l14.3 14.3a8 8 0 0 0 10.38.79L156.5 151\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/shipping-container.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M128 48v160M128 208l106.2-30.34A8 8 0 0 0 240 170V86a8 8 0 0 0-5.8-7.69L128 48 22.87 63A8 8 0 0 0 16 70.94v114.12a8 8 0 0 0 6.87 7.94ZM96 128H48M72 56v144\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

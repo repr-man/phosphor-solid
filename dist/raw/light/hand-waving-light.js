@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/light/hand-waving-light.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M96.65 62a20 20 0 0 1 34.64-20l30 52\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M69.32 94.67 55.08 70a20 20 0 0 1 34.65-20l31.17 54\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M158.87 160a40 40 0 0 1 9.13-54.42L161.32 94A20 20 0 0 1 196 74l17.31 30A80 80 0 0 1 74.7 184l-40-69.32a20 20 0 0 1 34.64-20L88.57 128M192 33.78A51.84 51.84 0 0 1 223.67 58l.33.57M74.62 232A111.9 111.9 0 0 1 47 200\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

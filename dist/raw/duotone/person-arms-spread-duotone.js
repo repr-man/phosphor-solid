@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/person-arms-spread-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><circle cx=128 cy=40 r=24 opacity=.2></circle><path d=\"M39 102.9C27.31 97.5 31.15 80 44 80h168c12.87 0 16.71 17.5 5 22.9L160 128l22.87 86.93a12 12 0 0 1-21.75 10.14L128 168l-33.12 57.07a12 12 0 0 1-21.75-10.14L96 128Z\"opacity=.2></path><circle cx=128 cy=40 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M39 102.9C27.31 97.5 31.15 80 44 80h168c12.87 0 16.71 17.5 5 22.9L160 128l22.87 86.93a12 12 0 0 1-21.75 10.14L128 168l-33.12 57.07a12 12 0 0 1-21.75-10.14L96 128Z\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

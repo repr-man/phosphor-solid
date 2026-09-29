@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/star-four-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"m159.82 159.82-24.34 66.94a8 8 0 0 1-15 0l-24.3-66.94-66.94-24.34a8 8 0 0 1 0-15l66.94-24.3 24.34-66.94a8 8 0 0 1 15 0l24.34 66.94 66.94 24.34a8 8 0 0 1 0 15Z\"opacity=.2></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"m159.82 159.82-24.34 66.94a8 8 0 0 1-15 0l-24.3-66.94-66.94-24.34a8 8 0 0 1 0-15l66.94-24.3 24.34-66.94a8 8 0 0 1 15 0l24.34 66.94 66.94 24.34a8 8 0 0 1 0 15Z\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

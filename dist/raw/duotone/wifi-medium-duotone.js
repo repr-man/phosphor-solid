@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/wifi-medium-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"M121.85 213.12a8 8 0 0 0 12.3 0l68.18-82.18a116 116 0 0 0-148.66 0Z\"opacity=.2></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"m134.15 213.12 104-125.43a7.79 7.79 0 0 0-1.31-11.21 180.75 180.75 0 0 0-217.78 0 7.79 7.79 0 0 0-1.26 11.21l104.05 125.43a8 8 0 0 0 12.3 0\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M53.67 130.94a116 116 0 0 1 148.66 0\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

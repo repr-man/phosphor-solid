@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/suitcase-rolling-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M88 216v24M168 216v24M104 96v80M152 96v80\"></path><rect width=144 height=160 x=56 y=56 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 rx=8></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M160 56V28a16 16 0 0 0-16-16h-32a16 16 0 0 0-16 16v28\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

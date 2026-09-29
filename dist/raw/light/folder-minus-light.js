@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/light/folder-minus-light.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M216.89 208H39.38a7.4 7.4 0 0 1-7.38-7.38V80h184a8 8 0 0 1 8 8v112.89a7.11 7.11 0 0 1-7.11 7.11M32 80V56a8 8 0 0 1 8-8h52.69a8 8 0 0 1 5.65 2.34L128 80M104 144h48\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

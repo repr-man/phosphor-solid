@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/radioactive.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M109.77 97 83.82 52a8 8 0 0 0-11.55-2.54A95.94 95.94 0 0 0 32 119.14a8.1 8.1 0 0 0 8 8.86h52M146.23 97l26-44.94a8 8 0 0 1 11.55-2.54A95.94 95.94 0 0 1 224 119.14a8.1 8.1 0 0 1-8 8.86h-52M146 159.18l25.83 44.73a8 8 0 0 1-3.56 11.26 96.24 96.24 0 0 1-80.54 0 8 8 0 0 1-3.56-11.26L110 159.18\"></path><circle cx=128 cy=128 r=12>"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

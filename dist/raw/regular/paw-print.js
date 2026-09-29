@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/paw-print.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><circle cx=212 cy=108 r=20 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16></circle><circle cx=44 cy=108 r=20 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16></circle><circle cx=92 cy=60 r=20 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16></circle><circle cx=164 cy=60 r=20 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M128 104a36 36 0 0 0-34.57 26 43.5 43.5 0 0 1-20.67 25.9 32 32 0 0 0 27.73 57.62 72.5 72.5 0 0 1 55 0 32 32 0 0 0 27.73-57.62 43.46 43.46 0 0 1-20.65-25.9A36 36 0 0 0 128 104\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

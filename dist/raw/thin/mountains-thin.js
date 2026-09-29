@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/mountains-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><circle cx=164 cy=52 r=20 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M8 200 81.1 75.94a8 8 0 0 1 13.8 0L168 200ZM50.35 128h75.3\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"m146.61 163.71 33.06-55.79a8 8 0 0 1 13.76 0L248 200h-80\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

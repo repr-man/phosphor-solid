@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/git-pull-request-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><circle cx=72 cy=192 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24></circle><circle cx=72 cy=64 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M72 88v80\"></path><circle cx=200 cy=192 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M200 168v-57.37a16 16 0 0 0-4.69-11.32L144 48\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M144 96V48h48\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

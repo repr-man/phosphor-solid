@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/speaker-simple-slash-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"M88 168H40a8 8 0 0 1-8-8V96a8 8 0 0 1 8-8h48l72-56v192Z\"opacity=.2></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M200 104v48M232 88v80M56 40l160 176M120.15 62.99 160 32v74.83M160 154.4V224l-72-56H40a8 8 0 0 1-8-8V96a8 8 0 0 1 8-8h59.64\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

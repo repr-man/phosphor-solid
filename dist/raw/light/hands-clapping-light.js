@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/light/hands-clapping-light.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M168 8v16M208 21.02l-8 13.11M235.66 56l-15.04 4.85M83.54 99l-5.73-10a18 18 0 1 0-31.18 18l19 32.91\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"m109.55 144-26-45a18 18 0 1 1 31.17-18l36.45 63\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"m102 59-5.72-10A18 18 0 1 0 65.1 67l12.71 22\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M114.71 81 102 59a18 18 0 1 1 31.17-18l37 64\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M199 187.76a72 72 0 0 0 10.7-86.19L188.61 65a18 18 0 0 0-31.18 18\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"m81.81 168-20.22-35a18 18 0 0 0-31.18 18L40 167.59 65.63 212a72 72 0 0 0 124.71-72l-20.2-35A18 18 0 1 0 139 123\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

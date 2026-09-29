@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/mouse-left-click-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"M128 112V24h-16a56 56 0 0 0-56 56v32Z\"opacity=.2></path><rect width=144 height=208 x=56 y=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 rx=56></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M128 112V24M56 112h144\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/barbell.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><rect width=40 height=144 x=56 y=56 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 rx=8></rect><rect width=40 height=144 x=160 y=56 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 rx=8></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M200 80h24a8 8 0 0 1 8 8v80a8 8 0 0 1-8 8h-24M56 176H32a8 8 0 0 1-8-8V88a8 8 0 0 1 8-8h24M96 128h64M232 128h16M8 128h16\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

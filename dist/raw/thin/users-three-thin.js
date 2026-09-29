@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/users-three-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M197 120c15.54 0 29.33 9.43 38 24M16 144a59.91 59.91 0 0 1 48-24\"></path><circle cx=128 cy=144 r=40 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M72 216a65 65 0 0 1 112 0M161 80a32 32 0 1 1 31 40M64 120a32 32 0 1 1 31-40\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

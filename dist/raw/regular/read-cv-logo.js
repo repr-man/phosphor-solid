@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/read-cv-logo.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><rect width=148.27 height=187.59 x=53.87 y=34.21 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 rx=8 transform=\"rotate(10.02 127.95 127.985)\"></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"m97.22 59.81 82.98 14.66M174.66 105.98 91.67 91.33M127.62 130.17l-41.49-7.33\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

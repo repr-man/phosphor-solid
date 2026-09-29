@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/sparkle-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"m84.27 171.73-55.09-20.3a7.92 7.92 0 0 1 0-14.86l55.09-20.3 20.3-55.09a7.92 7.92 0 0 1 14.86 0l20.3 55.09 55.09 20.3a7.92 7.92 0 0 1 0 14.86l-55.09 20.3-20.3 55.09a7.92 7.92 0 0 1-14.86 0ZM176 16v48M224 72v32M152 40h48M208 88h32\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

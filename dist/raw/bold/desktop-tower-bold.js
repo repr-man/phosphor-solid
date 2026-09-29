@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/desktop-tower-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M140 180H32a16 16 0 0 1-16-16V96a16 16 0 0 1 16-16h108M108 216H68M204 76h-24M204 112h-24\"></path><rect width=96 height=176 x=144 y=40 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 rx=8></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M88 180v36\"></path><circle cx=192 cy=176 r=16>"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/tea-bag-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M160 216v-93.78a8 8 0 0 0-1.14-4.12l-20.53-34.22a8 8 0 0 0-6.86-3.88H76.53a8 8 0 0 0-6.86 3.88L49.14 118.1a8 8 0 0 0-1.14 4.12V216a8 8 0 0 0 8 8h96a8 8 0 0 0 8-8\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M224 168a24 24 0 0 1-24-24V64a48 48 0 0 0-48-48h0a48 48 0 0 0-48 48v72\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

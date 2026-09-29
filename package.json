@@ -1,0 +1,36 @@
+{
+  "name": "phosphor-solid",
+  "version": "0.1.0",
+  "description": "Phosphor icons as SolidJS 2 components",
+  "type": "module",
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/generate-icons.mjs && vite build --config vite.lib.config.ts --logLevel error && tsc --project tsconfig.build.json && node scripts/copy-svg-types.mjs",
+    "serve": "vite preview",
+    "lint": "oxlint src scripts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@solidjs/vite-plugin": "^3.0.0-next.46",
+    "eslint-plugin-solid": "~0.18.0",
+    "oxlint": "~1.79.0",
+    "typescript": "^5.9.2",
+    "vite": "^8.1.5",
+    "vite-plugin-solid-svg": "github:repr-man/vite-plugin-solid-2-svg"
+  },
+  "dependencies": {
+    "@solidjs/web": "^2.0.0-rc.10",
+    "solid-js": "^2.0.0-rc.10"
+  }
+}

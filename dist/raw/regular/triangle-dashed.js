@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/triangle-dashed.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M152 216h-48M225.21 184l4.66 8.09c6.13 10.7-1.79 23.91-14.41 23.91H192M64 216H40.54c-12.62 0-20.54-13.21-14.41-23.91l4.66-8.09M179.14 104l23.04 40M99.89 64l13.7-23.78c6.3-11 22.52-11 28.82 0L156.11 64M53.82 144l23.04-40\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/fan-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><circle cx=128 cy=128 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M104.31 124.14a52 52 0 1 1 47.69-92l-18.17 72.54M136.5 150.45A52 52 0 1 1 33 155.13l71.91-20.54M143.19 109.41A52 52 0 1 1 199 196.7l-53.74-52\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

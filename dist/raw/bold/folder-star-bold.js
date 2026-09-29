@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/folder-star-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M98.39 46.69 128 80H32V52a8 8 0 0 1 8-8h52.41a8 8 0 0 1 5.98 2.69M112.56 208H39.38a7.4 7.4 0 0 1-7.38-7.38V80h184a8 8 0 0 1 8 8v24\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M184 198.54 213.67 216l-8.07-32.59 26.4-21.8-34.65-2.67L184 128l-13.35 30.94-34.65 2.67 26.4 21.8-8.07 32.59z\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/graph-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"m118.25 106.07-12.5-28.14M177.23 111.59l-26.46 8.82M181.06 169.27l-34.12-26.54M110.06 143.94l-36.12 32.12\"></path><circle cx=128 cy=128 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24></circle><circle cx=96 cy=56 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24></circle><circle cx=200 cy=100 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24></circle><circle cx=200 cy=188 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24></circle><circle cx=56 cy=192 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24>"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

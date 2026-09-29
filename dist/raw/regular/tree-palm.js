@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/tree-palm.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M128 104a65.47 65.47 0 0 1 17.84-45.25 58.87 58.87 0 0 1 86.16 0Z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M128 104.52a64.26 64.26 0 0 1 87.42 23.26 63 63 0 0 1 6.39 48.22ZM128 104a65.47 65.47 0 0 0-17.84-45.25 58.87 58.87 0 0 0-86.16 0Z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M128 104.52a64.26 64.26 0 0 0-87.42 23.26A63 63 0 0 0 34.19 176ZM128 104.52V224\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

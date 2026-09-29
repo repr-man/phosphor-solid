@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/light/github-logo-light.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M119.83 56A52 52 0 0 0 76 32a51.92 51.92 0 0 0-3.49 44.7A49.3 49.3 0 0 0 64 104v8a48 48 0 0 0 48 48h48a48 48 0 0 0 48-48v-8a49.3 49.3 0 0 0-8.51-27.3A51.92 51.92 0 0 0 196 32a52 52 0 0 0-43.83 24ZM104 232v-40a32 32 0 0 1 32-32h0a32 32 0 0 1 32 32v40\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M104 208H72a32 32 0 0 1-32-32 32 32 0 0 0-32-32\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

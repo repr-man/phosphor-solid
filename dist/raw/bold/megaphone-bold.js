@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/megaphone-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M40 200a8 8 0 0 0 13.15 6.12C105.55 162.16 160 160 160 160h40a40 40 0 0 0 0-80h-40s-54.45-2.16-106.85-46.11A8 8 0 0 0 40 40Z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M156 79.67v121a8 8 0 0 0 3.56 6.65l15 7.33a8 8 0 0 0 12.2-4.72L200 160\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

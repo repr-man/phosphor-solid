@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/scan-smiley-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M180 40h36v36M180 216h36v-36M76 216H40v-36M76 40H40v36\"></path><circle cx=128 cy=128 r=64 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8></circle><circle cx=104 cy=116 r=8></circle><circle cx=152 cy=116 r=8></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M152 152c-5.64 5-15.88 8-24 8s-18.36-3-24-8\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

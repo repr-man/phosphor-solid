@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/train-regional.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M70.11 32h115.78a8 8 0 0 1 7.72 5.9L216 120l-22.39 82.1a8 8 0 0 1-7.72 5.9H70.11a8 8 0 0 1-7.72-5.9L40 120l22.39-82.1a8 8 0 0 1 7.72-5.9M128 208v-72\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"m40 120 88 16 88-16M96 88h64M96 208l-24 32M160 208l24 32\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

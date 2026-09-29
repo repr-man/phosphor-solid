@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/hand-coins-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M48 208H20a8 8 0 0 1-8-8v-40a8 8 0 0 1 8-8h28\"></path><circle cx=204 cy=80 r=28 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M112 160h32l67-15.41a16.61 16.61 0 0 1 21 16h0a16.59 16.59 0 0 1-9.18 14.85L184 192l-64 16H48v-56l25-25a24 24 0 0 1 17-7h50a20 20 0 0 1 20 20h0a20 20 0 0 1-20 20ZM176.46 85.08a28 28 0 1 1 15.08-30.16\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

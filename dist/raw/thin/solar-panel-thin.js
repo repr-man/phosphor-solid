@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/solar-panel-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M40 104h16M65.77 41.77l11.32 11.32M128 16v16M190.23 41.77l-11.32 11.32M216 104h-16M88 104a40 40 0 0 1 80 0M24 216l40.7-72h126.6l40.7 72zM46.61 176h162.78M152.35 144 168 216M88 216l15.65-72\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

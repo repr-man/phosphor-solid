@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/eject.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><rect width=40 height=176 x=108 y=92 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 rx=8 transform=\"rotate(-90 128 180)\"></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"m42.19 114.63 73.74-77.5a16.76 16.76 0 0 1 24.14 0l73.74 77.5c4.85 5.1 1.12 13.37-6 13.37H48.23c-7.16 0-10.89-8.27-6.04-13.37\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

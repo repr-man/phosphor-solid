@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/usb-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><circle cx=132 cy=64 r=24 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M12 128h184M196 92v72l48-36z\"></path><rect width=48 height=48 x=108 y=168 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 rx=8></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M108 64H72a8 8 0 0 0-8 8v112a8 8 0 0 0 8 8h36\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/flame-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"M128 24S48 72 48 144a80 80 0 0 0 77.94 80A40 40 0 0 1 88 184c0-40 40-64 40-64s40 24 40 64a40 40 0 0 1-37.94 40A80 80 0 0 0 208 144c0-72-80-120-80-120\"opacity=.2></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M208 144c0-72-80-120-80-120S48 72 48 144a80 80 0 0 0 160 0\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M88 184a40 40 0 0 0 80 0c0-40-40-64-40-64s-40 24-40 64\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

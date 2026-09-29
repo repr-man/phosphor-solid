@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/octagon.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-miterlimit=10 stroke-width=16 d=\"M164.45 32h-72.9a8 8 0 0 0-5.66 2.34L34.34 85.89A8 8 0 0 0 32 91.55v72.9a8 8 0 0 0 2.34 5.66l51.55 51.55a8 8 0 0 0 5.66 2.34h72.9a8 8 0 0 0 5.66-2.34l51.55-51.55a8 8 0 0 0 2.34-5.66v-72.9a8 8 0 0 0-2.34-5.66l-51.55-51.55a8 8 0 0 0-5.66-2.34Z\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

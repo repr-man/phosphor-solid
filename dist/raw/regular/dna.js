@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/dna.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M96 48h96M64 24v27.5a72 72 0 0 0 39.8 64.4l48.4 24.2a72 72 0 0 1 39.8 64.4V232M64 208h96M107.89 80h78.23M69.88 176h78.23M93.38 146.47A72 72 0 0 0 64 204.5V232M192 24v27.5a72 72 0 0 1-29.38 58\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

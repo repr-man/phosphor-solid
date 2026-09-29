@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/bold/office-chair-bold.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M72 232a24 24 0 0 1 24-24h64a24 24 0 0 1 24 24h0M128 168v64M16 128h24a40 40 0 0 0 40 40h96a40 40 0 0 0 40-40h24\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=24 d=\"M154.41 24h-52.82a8 8 0 0 0-7.93 6.78l-13.57 88A8 8 0 0 0 88 128h80a8 8 0 0 0 7.93-9.22l-13.57-88a8 8 0 0 0-7.95-6.78\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

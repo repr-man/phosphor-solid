@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/light/binary-light.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><ellipse cx=94 cy=72 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 rx=30 ry=40></ellipse><ellipse cx=166 cy=184 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 rx=30 ry=40></ellipse><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M176 112V32l-24 13.33M96 224v-80l-24 13.33\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

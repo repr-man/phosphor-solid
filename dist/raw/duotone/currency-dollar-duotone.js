@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/currency-dollar-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"M128 128h24a40 40 0 0 1 0 80h-24ZM128 48h-16a40 40 0 0 0 0 80h16Z\"opacity=.2></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M128 24v208M184 88a40 40 0 0 0-40-40h-32a40 40 0 0 0 0 80h40a40 40 0 0 1 0 80h-48a40 40 0 0 1-40-40\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

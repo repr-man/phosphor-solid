@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/music-notes-plus-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><circle cx=180 cy=164 r=28 opacity=.2></circle><circle cx=52 cy=196 r=28 opacity=.2></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M200 24v48M224 48h-48\"></path><circle cx=180 cy=164 r=28 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16></circle><circle cx=52 cy=196 r=28 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M80 196V56l56-14M208 112v52M160 84l-80 20\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

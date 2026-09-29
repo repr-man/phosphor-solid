@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/regular/magic-wand.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"M216 128v48M192 152h48M80 40v48M56 64h48M168 184v32M152 200h32M144 80l32 32\"></path><rect width=213.02 height=45.25 x=21.49 y=105.37 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 rx=8 transform=\"rotate(-45 128 128)\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

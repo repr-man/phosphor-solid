@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/pill-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"M109.25 210.75a45.26 45.26 0 0 1-64 0 45.26 45.26 0 0 1 0-64L96 96l64 64Z\"opacity=.2></path><rect width=234.04 height=90.51 x=10.98 y=82.75 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 rx=45.25 transform=\"rotate(-45 128 128)\"></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"m96 96 64 64M160 112l24-24\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

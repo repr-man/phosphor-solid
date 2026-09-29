@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/duotone/link-simple-break-duotone.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"M113.94 209.94a48 48 0 0 1-67.88-67.88l96-96a48 48 0 0 1 67.88 67.88Z\"opacity=.2></path><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=16 d=\"m112 76.11 30.06-30a48 48 0 0 1 67.88 67.88L179.88 144M76.11 112l-30 30.06a48 48 0 0 0 67.88 67.88L144 179.88\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

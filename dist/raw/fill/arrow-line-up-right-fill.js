@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/fill/arrow-line-up-right-fill.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><path d=\"M224 216a8 8 0 0 1-8 8H40a8 8 0 0 1 0-16h176a8 8 0 0 1 8 8M80 176a8 8 0 0 0 5.66-2.34L144 115.31l42.34 42.35A8 8 0 0 0 200 152V56a8 8 0 0 0-8-8H96a8 8 0 0 0-5.66 13.66L132.69 104l-58.35 58.34A8 8 0 0 0 80 176\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

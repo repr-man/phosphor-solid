@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/thin/network-thin.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><rect width=48 height=48 x=104 y=32 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 rx=8></rect><rect width=48 height=48 x=40 y=168 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 rx=8></rect><rect width=48 height=48 x=168 y=168 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 rx=8></rect><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=8 d=\"M128 80v40M192 120v48M64 168v-48M24 120h208\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };

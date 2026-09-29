@@ -1,0 +1,11 @@
+import { spread as e, template as t } from "@solidjs/web";
+//#region raw/light/map-pin-simple-area-light.svg?component-solid
+var n = /* @__PURE__ */ t("<svg><path fill=none d=\"M0 0h256v256H0z\"></path><circle cx=128 cy=64 r=32 fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12></circle><path fill=none stroke=currentColor stroke-linecap=round stroke-linejoin=round stroke-width=12 d=\"M128 96v80M168 139.07c37.58 6 64 20.29 64 36.93 0 22.09-46.56 40-104 40S24 198.09 24 176c0-16.64 26.42-30.91 64-36.93\">"), r = (t = {}) => (() => {
+	var r = n();
+	return e(r, [{
+		xmlns: "http://www.w3.org/2000/svg",
+		viewBox: "0 0 256 256"
+	}, t], !0), r;
+})();
+//#endregion
+export { r as default };
